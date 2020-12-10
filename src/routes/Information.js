@@ -1,6 +1,6 @@
 import React from 'react';
-import './About.css';
-function About(props) {
+import './Information.css';
+function Information(props) {
   console.log(props);
   return (
     <div className="about__container">
@@ -13,4 +13,4 @@ function About(props) {
 }
 
 
-export default About;
+export default Information;
